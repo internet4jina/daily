@@ -1,1 +1,19 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5czQxMFg4UlpYUlFhd0JhcEFCcg@www.speedtest.net:443?plugin=v2ray-plugin%3Bloglevel%3Dnone%3Bhost%3Dmusical.rxayql-vluisy.workers.dev%3Bpath%3D%2Fapi%3Btls#Internet4Iran-rxayql-vluisy
+[
+  {
+    "server": "www.speedtest.net",
+    "server_port": 443,
+    "password": "9s410X8RZXRQawBapABr",
+    "method": "chacha20-ietf-poly1305",
+    "plugin": "v2ray-plugin",
+    "plugin_opts": "loglevel=none;path=\/api;host=musical.rxayql-vluisy.workers.dev;tls",
+    "remarks": "Internet4Iran-rxayql-vluisy",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  }
+]
